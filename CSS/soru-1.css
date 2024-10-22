@@ -1,0 +1,20 @@
+#box
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding: auto;
+    
+}
+
